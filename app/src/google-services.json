@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652158350015",
+    "project_id": "dailytasktracker-e0525",
+    "storage_bucket": "dailytasktracker-e0525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652158350015:android:5043f818044f646b62cc0a",
+        "android_client_info": {
+          "package_name": "com.javap.dailytasktracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8mOEBUmjEQ0MbAndEalxwWF5rDliprw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
