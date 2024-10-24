@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/textViewTaskName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task Name" />
+
+    <TextView
+        android:id="@+id/textViewTaskDueDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Due Date" />
+
+    <TextView
+        android:id="@+id/textViewTaskPriority"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Priority" />
+
+</LinearLayout>
